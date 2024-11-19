@@ -4,5 +4,16 @@ body{
 
 }
 header{
-    border-bottom: solid 2xp rgb (42,122,228)
+    border-bottom: solid 2xp rgb (42,122,228);
+    padding: 20xp;
+    font-size: 32xp;
+    color: blue(42,122,228);
+}
+section{
+    background-color:blueviolet(117,112,112);
+    padding-top: 80xp;
+    padding-bottom: 80xp;
+    display:flex;
+    justify-content: center;
+
 }
